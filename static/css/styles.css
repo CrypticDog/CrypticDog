@@ -1,3 +1,7 @@
-body {
-    background-image: url('/static/img/crypticdog1.png');
+.left-corner {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100px;
+    height: 100px;
 }
