@@ -36,7 +36,7 @@ body {
   .oval-image {
     float: left;
     width: 200px; /* Adjust width as needed */
-    height: 200px; /* Adjust height as needed */
+    height: 400px; /* Adjust height as needed */
     border-radius: 50%; /* Creates an oval shape */
     margin: 20px; /* Adjust margin as needed */
     object-fit: cover; /* Ensures the image covers the entire area */
